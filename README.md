@@ -22,8 +22,8 @@ provided upon reasonable request for academic and research purposes.
 
 ## Data
 
-The underlying dataset combines information collected from multiple
-sources, including publicly available technical specifications and
-consumer reviews.
-
-The dataset is not included in this repository.
+The final analytical dataset is not publicly included in this repository. 
+The dataset was obtained through the processing, integration and cleaning 
+of information from multiple sources. It can be made available upon reasonable 
+request for academic purposes, subject to the conditions applicable to the 
+original data sources.
